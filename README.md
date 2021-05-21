@@ -1,5 +1,7 @@
 # Google Summer of Code
 
+[![Join the chat at https://gitter.im/pysal/GSOC-2021-FacLoc](https://badges.gitter.im/pysal/GSOC-2021-FacLoc.svg)](https://gitter.im/pysal/GSOC-2021-FacLoc?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 | [Sub organizations](#sub-organizations) | [IDEAS LIST][IL] | [Student guides][CONTRIBUTING]  |
 
 [NumFOCUS][] will be applying again as an umbrella mentoring organization
